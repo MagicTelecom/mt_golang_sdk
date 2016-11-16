@@ -7,7 +7,7 @@
 package magictelecomapi
 
 /** The base Uri for API calls */
-const BASEURI string = "https://api.magictelecom.com/app_dev.php"
+const BASEURI string = "https://api.magictelecom.com"
 
 var Config struct {
     /** API Token */
